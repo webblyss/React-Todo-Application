@@ -1,0 +1,61 @@
+.b__title{
+    width: 70%;
+    height: 60px;
+    background-color: #181820;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.main--title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.main--title > span{
+    margin-left: 10px;
+}
+
+.option__menu{
+    cursor: pointer;
+  }
+
+  .input-wrapper{
+    width: 70%;
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    border: 1px solid silver;
+    padding: 5px;
+  }
+  
+.input-wrapper>input{
+    width: 90%;
+    background: none;
+    border: none;
+    outline: none;
+    margin: auto;
+    color: white;
+}
+
+.task__section{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    margin-top: 2rem;
+    color: white;
+}
+
+
+
+
+
+
+
